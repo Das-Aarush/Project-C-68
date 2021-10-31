@@ -1,0 +1,46 @@
+body {
+    text-align: center;
+}
+
+h1 {
+    text-shadow: 2px 2px #F8BBDO
+}
+
+p {
+    color: #6A1B9A;
+}
+
+.img1 {
+    border-radius: 50%;
+    width: 200px;
+}
+.menu {
+list-style: none;
+top:10px;
+right: 10px; 
+position: absolute;
+z-index: 10px;
+cursor: pointer;
+font-family:Bahnschrift;   
+}
+.links {
+padding-top: 6px;
+padding-right: 10px;
+padding-left: 10px;
+padding-bottom: 6px;
+float:left;
+color:darkorange;
+}
+.links:hover {
+background-color:blueviolet;
+}
+#section1 {
+background-color:aqua;
+}
+.image {
+height: 200;
+width: 100;
+}
+.img3:hover {
+width:250px;
+}
